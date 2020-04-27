@@ -1,3 +1,7 @@
-# danbleed
-Dan Bleed's web page is currently under construction.
-Please check back later. Thanks.
+# Dan Bleed
+
+![Daniel Magnus Bleed](/me_in_hue.jpg "Daniel M Bleed")
+
+## Under construction. Please check back later. 
+
+### Thanks.
