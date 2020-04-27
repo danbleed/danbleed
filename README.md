@@ -1,2 +1,3 @@
 # danbleed
-Dan Bleed's public repository
+Dan Bleed's web page is currently under construction.
+Please check back later. Thanks.
